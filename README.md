@@ -11,5 +11,4 @@ ATE HW Engineer @ Sensorview - Department of Semiconductor
 
 ### Projects
 Capstone Design Project
-- 
 - Analog/Digital Circuit Design @ University Of Seoul
